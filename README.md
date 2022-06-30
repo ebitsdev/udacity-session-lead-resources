@@ -23,3 +23,16 @@ https://www.pythoncheatsheet.org/
 # Git version management
 
 https://git-scm.com/docs/gittutorial
+
+# Custom function to shorten git commit commands
+
+```bash
+function gitpush(){
+    git add .
+    if [ "$1" != "" ]; then
+        git commit -m "$1"
+    else
+        git commit -m "update added"
+    fi
+    git push
+}```
