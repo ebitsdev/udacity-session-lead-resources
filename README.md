@@ -35,4 +35,12 @@ function gitpush(){
         git commit -m "update added"
     fi
     git push
-}```
+}
+```
+### Shell Scripting Resources
+[Shell Scripting](https://www.shellscript.sh/functions.html)
+
+[25:12 / 59:11
+Shell Scripting Video Tutorial](https://www.youtube.com/watch?v=hwrnmQumtPw)
+### Advanced bash scripting guide
+[Advanced bash scripting guide](https://tldp.org/LDP/abs/abs-guide.pdf)
