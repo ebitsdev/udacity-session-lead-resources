@@ -38,7 +38,7 @@ function gitpush(){
 }
 ```
 ### Shell Scripting Resources
-[Shell Scripting](https://www.shellscript.sh/functions.html)
+[Shell Scripting tutorial](https://www.shellscript.sh/functions.html)
 
 [25:12 / 59:11
 Shell Scripting Video Tutorial](https://www.youtube.com/watch?v=hwrnmQumtPw)
