@@ -44,3 +44,6 @@ function gitpush(){
 Shell Scripting Video Tutorial](https://www.youtube.com/watch?v=hwrnmQumtPw)
 ### Advanced bash scripting guide
 [Advanced bash scripting guide](https://tldp.org/LDP/abs/abs-guide.pdf)
+
+### Unix Permissions
+ [Unix permissions - Human readable](https://mason.gmu.edu/~montecin/UNIXpermiss.htm)
