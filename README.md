@@ -47,3 +47,6 @@ Shell Scripting Video Tutorial](https://www.youtube.com/watch?v=hwrnmQumtPw)
 
 ### Unix Permissions
  [Unix permissions - Human readable](https://mason.gmu.edu/~montecin/UNIXpermiss.htm)
+
+ ### Managing file permissions on Unix-like systems
+ [Managing file permissions on Unix-like systems](https://kb.iu.edu/d/abdb)
