@@ -50,3 +50,6 @@ Shell Scripting Video Tutorial](https://www.youtube.com/watch?v=hwrnmQumtPw)
 
  ### Managing file permissions on Unix-like systems
  [Managing file permissions on Unix-like systems](https://kb.iu.edu/d/abdb)
+
+### Chmod Calculator
+[Chmod Calculator](https://chmod-calculator.com/)
