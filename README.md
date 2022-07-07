@@ -53,3 +53,6 @@ Shell Scripting Video Tutorial](https://www.youtube.com/watch?v=hwrnmQumtPw)
 
 ### Chmod Calculator
 [Chmod Calculator](https://chmod-calculator.com/)
+
+### Python Code linting in VSCode
+[Python Code linting in VSCode](https://code.visualstudio.com/docs/python/linting)
