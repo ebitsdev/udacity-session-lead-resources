@@ -2,6 +2,22 @@
 
 A repository to share useful resources with nanodegree students
 
+Useful tools that I use in my dev environment
+Install VSCode from https://code.visualstudio.com/download
+
+    Recommended extensions for VSCode from https://code.visualstudio.com/docs/editor/extension-marketplace
+    1. Prettier for code formatting
+    2. Pylance (Python), usually installed by default
+    3. Auto complete Tag
+    4. Material Icon Theme for VSCode
+    5. Monokai Pro Theme
+
+https://nodejs.org/en/ comes with npm or yarn as package managers
+Install Python from python.org
+Install git on your system: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+Install Intellij Community Edition for Java programming: https://www.jetbrains.com/idea/download/ 
+
+
 # CSS 
 https://css-tricks.com/
 
