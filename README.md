@@ -52,13 +52,14 @@ function gitpush(){
     git push
 }
 ```
-```batch
+### Windows Git shortcut command
+
+```bat
     git add .
     git commit -m %1
     git push
     ```
-
-
+```
 ### Shell Scripting Resources
 [Shell Scripting tutorial](https://www.shellscript.sh/functions.html)
 
