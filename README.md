@@ -9,8 +9,7 @@ Install VSCode from https://code.visualstudio.com/download
     1. Prettier for code formatting
     2. Pylance (Python), usually installed by default
     3. Auto complete Tag
-    4. Material Icon Theme for VSCode
-    5. Monokai Pro Theme
+    4. Material Icon Theme, Monokai Pro, Atom Themes for VSCode
 
 https://nodejs.org/en/ comes with npm or yarn as package managers
 Install Python from python.org
@@ -53,6 +52,13 @@ function gitpush(){
     git push
 }
 ```
+```batch
+    git add .
+    git commit -m %1
+    git push
+    ```
+
+
 ### Shell Scripting Resources
 [Shell Scripting tutorial](https://www.shellscript.sh/functions.html)
 
