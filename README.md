@@ -12,9 +12,13 @@ Install VSCode from https://code.visualstudio.com/download
     4. Material Icon Theme, Monokai Pro, Atom Themes for VSCode
 
 https://nodejs.org/en/ comes with npm or yarn as package managers
+
 Install Python from python.org
+
 Install git on your system: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+
 Create an account on github.com and link your local git environment to it
+
 Install Intellij Community Edition for Java programming: https://www.jetbrains.com/idea/download/ 
 
 # CSS 
