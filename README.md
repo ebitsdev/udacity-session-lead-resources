@@ -2,6 +2,9 @@
 
 A repository to share useful resources with nanodegree students
 
+### Free Web font resource
+https://fonts.google.com/
+
 Useful tools that I use in my dev environment
 Install VSCode from https://code.visualstudio.com/download
 

@@ -1,0 +1,31 @@
+/* body{
+    background-color: rgb(26, 169, 241);
+} */
+/* Selecting by tag name */
+h1{
+    font-family: "Source Code Pro";
+}
+/* Selecting by class name */
+.main{
+    font-family: 'Arial Narrow','Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/* Selecting by ID */
+#second-para{
+    font-family: Merriweather;
+    font-style: italic;
+    color: blue;
+}
+.simple-para{
+    color: orange;
+}
+li:nth-child(4){
+    font-weight: 700;
+}
+ul{
+    list-style-type: none;
+    padding: 2px;
+}
+li::before{
+    content: '🔗 ';
+}
