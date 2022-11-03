@@ -1,0 +1,38 @@
+/* CSS tag name selector */
+body {
+    font-family: "Arial Narrow";
+}
+/* CSS tag name selector */
+h1 {
+    text-transform: uppercase;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+ol li {
+    font-family: "Merriweather";
+    font-style: italic;
+}
+img {
+    width: 40%;
+    border-radius: 38px;
+}
+ul li {
+    display: inline-block;
+}
+/* CSS: class name selector */
+.parag{
+    color: green;
+}
+.o-item{
+    text-transform: lowercase;
+    text-decoration: underline;
+}
+
+/* CSS: ID selector */
+#para-3{
+    color: dodgerblue;
+    font-weight: 700;
+}
+#o-item-4{
+    text-decoration: none;
+    font-style: normal;
+}
