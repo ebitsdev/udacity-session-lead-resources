@@ -40,6 +40,19 @@ https://www.w3.org
 CSS Selector game:
 https://flukeout.github.io/
 
+# JavaScript Basic Data Types, Variables, Control Flow
+
+https://dev.to/lydiahallie/javascript-visualized-hoisting-478h
+https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
+# Function, Arrays, and Objects in JavaScript
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
+# DOM Manipulation with JavaScript
+
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents
+
 # Python
 
 https://www.python.org
