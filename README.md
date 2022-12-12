@@ -3,6 +3,7 @@
 A repository to share useful resources with nanodegree students
 
 ### Free Web font resource
+
 https://fonts.google.com/
 
 Useful tools that I use in my dev environment
@@ -22,22 +23,25 @@ Install git on your system: https://git-scm.com/book/en/v2/Getting-Started-Insta
 
 Create an account on github.com and link your local git environment to it
 
-Install Intellij Community Edition for Java programming: https://www.jetbrains.com/idea/download/ 
+Install Intellij Community Edition for Java programming: https://www.jetbrains.com/idea/download/
 
-# CSS 
+# CSS
+
 https://css-tricks.com/
 
 # HTML
+
 https://developer.mozilla.org/en-US/docs/Web/HTML
 
 https://www.youtube.com/watch?v=DPnqb74Smug (Learn HTML5 - full course with code samples)
 
-https://www.w3.org 
+https://www.w3.org
 
 CSS Selector game:
 https://flukeout.github.io/
 
 # Python
+
 https://www.python.org
 https://docs.microsoft.com/en-us/learn/modules/intro-to-python/
 https://www.pythoncheatsheet.org/
@@ -59,30 +63,39 @@ function gitpush(){
     git push
 }
 ```
+
 ### Windows Git shortcut command
 
-```bat
+````bat
     git add .
     git commit -m %1
     git push
     ```
-```
+````
+
 ### Shell Scripting Resources
+
 [Shell Scripting tutorial](https://www.shellscript.sh/functions.html)
 
 [25:12 / 59:11
 Shell Scripting Video Tutorial](https://www.youtube.com/watch?v=hwrnmQumtPw)
+
 ### Advanced bash scripting guide
+
 [Advanced bash scripting guide](https://tldp.org/LDP/abs/abs-guide.pdf)
 
 ### Unix Permissions
- [Unix permissions - Human readable](https://mason.gmu.edu/~montecin/UNIXpermiss.htm)
 
- ### Managing file permissions on Unix-like systems
- [Managing file permissions on Unix-like systems](https://kb.iu.edu/d/abdb)
+[Unix permissions - Human readable](https://mason.gmu.edu/~montecin/UNIXpermiss.htm)
+
+### Managing file permissions on Unix-like systems
+
+[Managing file permissions on Unix-like systems](https://kb.iu.edu/d/abdb)
 
 ### Chmod Calculator
+
 [Chmod Calculator](https://chmod-calculator.com/)
 
 ### Python Code linting in VSCode
+
 [Python Code linting in VSCode](https://code.visualstudio.com/docs/python/linting)
