@@ -1,0 +1,10 @@
+.active {
+    font-family: 'Oswald';
+    font-weight: 700;
+    text-decoration: underline;
+    color: olive;
+}
+.inactive{
+    font-family: 'Arial Narrow';
+    color: dodgerblue;
+}
